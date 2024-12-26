@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fantasy-football-divisional-rivals-scheduler": "^1.0.2"
+  },
+  "type": "module"
+}
